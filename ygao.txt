@@ -1,5 +1,5 @@
 yunsong gao -- blue
-favorite=red
+favorite=red-blue!
 
 
 
