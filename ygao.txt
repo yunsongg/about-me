@@ -1,5 +1,4 @@
 yunsong gao -- blue
-
 favorite="No, Blue!"
 
 
